@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="back ground jarani.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tes0000" x="0" y="0" width="184" height="158" frameX="0" frameY="-6" frameWidth="184" frameHeight="166"/>
+	<SubTexture name="tes0001" x="0" y="0" width="184" height="158" frameX="0" frameY="-6" frameWidth="184" frameHeight="166"/>
+	<SubTexture name="tes0002" x="0" y="0" width="184" height="158" frameX="0" frameY="-7" frameWidth="184" frameHeight="166"/>
+	<SubTexture name="tes0003" x="0" y="0" width="184" height="158" frameX="0" frameY="-7" frameWidth="184" frameHeight="166"/>
+	<SubTexture name="tes0004" x="0" y="0" width="184" height="158" frameX="0" frameY="-2" frameWidth="184" frameHeight="166"/>
+	<SubTexture name="tes0005" x="0" y="0" width="184" height="158" frameX="0" frameY="-2" frameWidth="184" frameHeight="166"/>
+	<SubTexture name="tes0006" x="0" y="0" width="184" height="158" frameX="0" frameY="0" frameWidth="184" frameHeight="166"/>
+	<SubTexture name="tes0007" x="0" y="0" width="184" height="158" frameX="0" frameY="0" frameWidth="184" frameHeight="166"/>
+	<SubTexture name="tes0008" x="0" y="0" width="184" height="158" frameX="0" frameY="0" frameWidth="184" frameHeight="166"/>
+	<SubTexture name="tes0009" x="0" y="0" width="184" height="158" frameX="0" frameY="0" frameWidth="184" frameHeight="166"/>
+	<SubTexture name="tes0010" x="0" y="0" width="184" height="158" frameX="0" frameY="0" frameWidth="184" frameHeight="166"/>
+	<SubTexture name="tes0011" x="0" y="0" width="184" height="158" frameX="0" frameY="0" frameWidth="184" frameHeight="166"/>
+	<SubTexture name="tes0012" x="0" y="0" width="184" height="158" frameX="0" frameY="0" frameWidth="184" frameHeight="166"/>
+	<SubTexture name="tes0013" x="0" y="0" width="184" height="158" frameX="0" frameY="0" frameWidth="184" frameHeight="166"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ground.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="u0000" x="0" y="0" width="407" height="644" frameX="0" frameY="-7" frameWidth="407" frameHeight="651"/>
+	<SubTexture name="u0001" x="0" y="0" width="407" height="644" frameX="0" frameY="-7" frameWidth="407" frameHeight="651"/>
+	<SubTexture name="u0002" x="417" y="0" width="405" height="648" frameX="-1" frameY="-3" frameWidth="407" frameHeight="651"/>
+	<SubTexture name="u0003" x="417" y="0" width="405" height="648" frameX="-1" frameY="-3" frameWidth="407" frameHeight="651"/>
+	<SubTexture name="u0004" x="832" y="0" width="403" height="651" frameX="-2" frameY="0" frameWidth="407" frameHeight="651"/>
+	<SubTexture name="u0005" x="832" y="0" width="403" height="651" frameX="-2" frameY="0" frameWidth="407" frameHeight="651"/>
+	<SubTexture name="u0006" x="1245" y="0" width="403" height="651" frameX="-2" frameY="0" frameWidth="407" frameHeight="651"/>
+	<SubTexture name="u0007" x="1245" y="0" width="403" height="651" frameX="-2" frameY="0" frameWidth="407" frameHeight="651"/>
+	<SubTexture name="u0008" x="1245" y="0" width="403" height="651" frameX="-2" frameY="0" frameWidth="407" frameHeight="651"/>
+	<SubTexture name="u0009" x="1245" y="0" width="403" height="651" frameX="-2" frameY="0" frameWidth="407" frameHeight="651"/>
+	<SubTexture name="u0010" x="1245" y="0" width="403" height="651" frameX="-2" frameY="0" frameWidth="407" frameHeight="651"/>
+	<SubTexture name="u0011" x="1245" y="0" width="403" height="651" frameX="-2" frameY="0" frameWidth="407" frameHeight="651"/>
+	<SubTexture name="u0012" x="1245" y="0" width="403" height="651" frameX="-2" frameY="0" frameWidth="407" frameHeight="651"/>
+	<SubTexture name="u0013" x="1245" y="0" width="403" height="651" frameX="-2" frameY="0" frameWidth="407" frameHeight="651"/>
+</TextureAtlas>

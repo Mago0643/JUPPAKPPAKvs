@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="back ground gorani.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="set0000" x="0" y="0" width="593" height="734" frameX="0" frameY="-7" frameWidth="593" frameHeight="741"/>
+	<SubTexture name="set0001" x="0" y="0" width="593" height="734" frameX="0" frameY="-7" frameWidth="593" frameHeight="741"/>
+	<SubTexture name="set0002" x="603" y="0" width="590" height="732" frameX="-2" frameY="-9" frameWidth="593" frameHeight="741"/>
+	<SubTexture name="set0003" x="603" y="0" width="590" height="732" frameX="-2" frameY="-9" frameWidth="593" frameHeight="741"/>
+	<SubTexture name="set0004" x="1203" y="0" width="588" height="737" frameX="-3" frameY="-4" frameWidth="593" frameHeight="741"/>
+	<SubTexture name="set0005" x="1203" y="0" width="588" height="737" frameX="-3" frameY="-4" frameWidth="593" frameHeight="741"/>
+	<SubTexture name="set0006" x="0" y="747" width="588" height="741" frameX="-3" frameY="0" frameWidth="593" frameHeight="741"/>
+	<SubTexture name="set0007" x="0" y="747" width="588" height="741" frameX="-3" frameY="0" frameWidth="593" frameHeight="741"/>
+	<SubTexture name="set0008" x="0" y="747" width="588" height="741" frameX="-3" frameY="0" frameWidth="593" frameHeight="741"/>
+	<SubTexture name="set0009" x="0" y="747" width="588" height="741" frameX="-3" frameY="0" frameWidth="593" frameHeight="741"/>
+	<SubTexture name="set0010" x="0" y="747" width="588" height="741" frameX="-3" frameY="0" frameWidth="593" frameHeight="741"/>
+	<SubTexture name="set0011" x="0" y="747" width="588" height="741" frameX="-3" frameY="0" frameWidth="593" frameHeight="741"/>
+	<SubTexture name="set0012" x="0" y="747" width="588" height="741" frameX="-3" frameY="0" frameWidth="593" frameHeight="741"/>
+	<SubTexture name="set0013" x="0" y="747" width="588" height="741" frameX="-3" frameY="0" frameWidth="593" frameHeight="741"/>
+</TextureAtlas>
